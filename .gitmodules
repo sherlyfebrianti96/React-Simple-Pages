@@ -1,0 +1,6 @@
+[submodule "react-simple-homepage"]
+	path = react-simple-homepage
+	url = https://github.com/sherlyfebrianti96/React-Simple-Homepage
+[submodule "react-simple-user-list-page"]
+	path = react-simple-user-list-page
+	url = https://github.com/sherlyfebrianti96/React-Simple-User-List-Page
